@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/ThirdPerson/Blueprints/ABC.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/ThirdPerson/Blueprints/BP_ABC.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/ThirdPerson/Materials/M_Panel.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/ThirdPerson/Materials/M_Plosina.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/ThirdPerson/Materials/M_PlosinaDefault.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/ThirdPerson/Materials/M_PlosinaSpravne.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/ThirdPerson/Materials/M_PlosinaSpatne.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QS/OBZR98UE79UONG5T7JW2N9.uasset",
+				"C:/dluhos/zadanaHraABC/zadanaHraABC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YF/PVW30A7J49A91DDZMJWKPY.uasset"
+			]
+		}
+	]
+}
